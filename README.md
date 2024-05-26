@@ -82,3 +82,7 @@ The game now should be playable. You can now play it on an emulator, your NES mi
 ### Piracy
 
 Don't share the ROM with anyone or anywhere else on the Internet, just because this is **your own** copy. Piracy is a serious crime.
+
+### Problems with the guide?
+
+Please open an issue.
