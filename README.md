@@ -1,6 +1,6 @@
 # WARNING!
 
- This guide is now outdated. Check out Infinest's [Hebereke Enjoy Edition Extractor](https://github.com/Infinest/Hebereke_Enjoy_Edition_Extractor/) for a more updated ROM extraction method.
+ This guide is now outdated. Check out Infinest's [Hebereke Enjoy Edition Extractor](https://github.com/Infinest/Hebereke_Enjoy_Edition_Extractor/) and its corresponding [https://steamcommunity.com/sharedfiles/filedetails/?id=3340850622](Steam guide) for a more updated ROM extraction method.
 
  --X--
 
